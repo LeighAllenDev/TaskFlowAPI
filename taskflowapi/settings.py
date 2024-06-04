@@ -34,7 +34,7 @@ SECRET_KEY = 'django-insecure-_1p-68%&^r2x1!$h@!y4owi&7#!5wa0($$_zy8zivi#tcb*lx&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['8000-leighallend-taskflowapi-pled9qd553c.ws-eu114.gitpod.io']
 
 
 # Application definition
